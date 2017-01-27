@@ -1,0 +1,56 @@
+div#everything{
+  width: 800px; 
+  border: 1px solid black;
+  margin: auto auto auto auto;
+  padding: 10px;
+}
+
+div#pubmenu{
+  background: lightgray;
+  border: 1px solid grey;
+  padding: 2px;
+  font-weight: bold;
+  margin-bottom: 0.3em;
+  text-align: left;
+}
+
+
+div#menu{
+  background: lightblue;
+  border: 1px solid grey;
+  padding: 2px;
+  font-weight: bold;
+  text-align: right;
+}
+
+div.info{
+  margin: 0.5em;
+  border: 1px solid blue;
+  padding: 2px;
+}
+
+div.error{
+  margin: 0.5em;
+  border: 1px solid red;
+  padding: 2px;
+}
+
+div#cc{
+  margin-top: 0.5em;
+  text-align: center;
+  font-size: 8pt;
+  color: grey;
+}
+
+a{
+  color: black;
+}
+
+img{
+  border: none;
+}
+
+.new{
+  color: red;
+  font-weight: bold;
+}
